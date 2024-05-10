@@ -59,7 +59,7 @@ fig.add_trace(go.Scatter(
 #fig.update_layout(xaxis_range=(0, 21))
 #fig.update_layout(yaxis_range=(0, 25))
 
-fig.update_layout(title=dict(text="Cumulative Diagram Flow", font=dict(size=25)),
+fig.update_layout(title=dict(text="Te Amo Minha Pequenininha!", font=dict(size=25)),
                              xaxis_title='Dia', yaxis_title='Cartões Acumulados')
 
 fig.update_xaxes(range=[0, 21], dtick=1, showgrid=True, gridwidth=1, gridcolor='rgb(255,231,237)')
